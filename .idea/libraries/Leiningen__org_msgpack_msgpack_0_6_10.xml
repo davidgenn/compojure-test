@@ -6,6 +6,13 @@
     <JAVADOC />
     <SOURCES>
       <root url="jar://$MAVEN_REPOSITORY$/org/msgpack/msgpack/0.6.10/msgpack-0.6.10-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/msgpack/msgpack/0.6.10/msgpack-0.6.10-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/msgpack/msgpack/0.6.10/msgpack-0.6.10-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/msgpack/msgpack/0.6.10/msgpack-0.6.10-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/msgpack/msgpack/0.6.10/msgpack-0.6.10-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/msgpack/msgpack/0.6.10/msgpack-0.6.10-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/msgpack/msgpack/0.6.10/msgpack-0.6.10-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/msgpack/msgpack/0.6.10/msgpack-0.6.10-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

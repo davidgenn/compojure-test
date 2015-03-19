@@ -6,6 +6,13 @@
     <JAVADOC />
     <SOURCES>
       <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/studio/org.apache.commons.codec/1.8/org.apache.commons.codec-1.8-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/studio/org.apache.commons.codec/1.8/org.apache.commons.codec-1.8-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/studio/org.apache.commons.codec/1.8/org.apache.commons.codec-1.8-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/studio/org.apache.commons.codec/1.8/org.apache.commons.codec-1.8-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/studio/org.apache.commons.codec/1.8/org.apache.commons.codec-1.8-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/studio/org.apache.commons.codec/1.8/org.apache.commons.codec-1.8-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/studio/org.apache.commons.codec/1.8/org.apache.commons.codec-1.8-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/studio/org.apache.commons.codec/1.8/org.apache.commons.codec-1.8-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

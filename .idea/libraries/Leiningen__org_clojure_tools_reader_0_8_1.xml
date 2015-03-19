@@ -7,6 +7,13 @@
     <SOURCES>
       <root url="jar://$MAVEN_REPOSITORY$/org/clojure/tools.reader/0.8.1/tools.reader-0.8.1-sources.jar!/" />
       <root url="jar://$MAVEN_REPOSITORY$/org/clojure/tools.reader/0.8.1/tools.reader-0.8.1-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/clojure/tools.reader/0.8.1/tools.reader-0.8.1-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/clojure/tools.reader/0.8.1/tools.reader-0.8.1-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/clojure/tools.reader/0.8.1/tools.reader-0.8.1-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/clojure/tools.reader/0.8.1/tools.reader-0.8.1-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/clojure/tools.reader/0.8.1/tools.reader-0.8.1-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/clojure/tools.reader/0.8.1/tools.reader-0.8.1-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/clojure/tools.reader/0.8.1/tools.reader-0.8.1-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

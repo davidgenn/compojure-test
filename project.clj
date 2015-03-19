@@ -9,7 +9,8 @@
                  [ring/ring-json "0.3.1"]
                  [ring/ring-defaults "0.1.4"]
                  [clj-http "1.0.1"]
-                 [com.taoensso/timbre "3.4.0"]]
+                 [com.taoensso/timbre "3.4.0"]
+                 [clj-jgit "0.8.3"]]
   :plugins [[lein-ring "0.8.13"]]
   :ring {:handler test.handler/app}
   :profiles

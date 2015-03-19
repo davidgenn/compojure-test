@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ReplState" timestamp="1426797331948">{:repl-history {:ide [], :local [&quot;(def my-repo (git-clone-full \&quot;https://github.com/clj-jgit/clj-jgit.git\&quot; \&quot;local-folder/clj-jgit\&quot;))\n  \n  &quot; &quot;(def my-repo (clj-jgit/git-clone-full \&quot;https://github.com/clj-jgit/clj-jgit.git\&quot; \&quot;local-folder/clj-jgit\&quot;))\n  \n  &quot; &quot;(clj_jgit/git-clone-full \&quot;https://github.com/clj-jgit/clj-jgit.git\&quot; \&quot;local-folder/clj-jgit\&quot;)&quot; &quot;(clj-jgit/git-clone-full \&quot;https://github.com/clj-jgit/clj-jgit.git\&quot; \&quot;local-folder/clj-jgit\&quot;)&quot;], :remote []}}</component>
+</project>

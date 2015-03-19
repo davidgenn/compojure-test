@@ -6,6 +6,13 @@
     <JAVADOC />
     <SOURCES>
       <root url="jar://$MAVEN_REPOSITORY$/org/clojure/test.check/0.5.9/test.check-0.5.9-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/clojure/test.check/0.5.9/test.check-0.5.9-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/clojure/test.check/0.5.9/test.check-0.5.9-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/clojure/test.check/0.5.9/test.check-0.5.9-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/clojure/test.check/0.5.9/test.check-0.5.9-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/clojure/test.check/0.5.9/test.check-0.5.9-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/clojure/test.check/0.5.9/test.check-0.5.9-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/clojure/test.check/0.5.9/test.check-0.5.9-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

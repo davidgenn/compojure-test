@@ -6,6 +6,13 @@
     <JAVADOC />
     <SOURCES>
       <root url="jar://$MAVEN_REPOSITORY$/com/cognitect/transit-java/0.8.269/transit-java-0.8.269-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/cognitect/transit-java/0.8.269/transit-java-0.8.269-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/cognitect/transit-java/0.8.269/transit-java-0.8.269-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/cognitect/transit-java/0.8.269/transit-java-0.8.269-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/cognitect/transit-java/0.8.269/transit-java-0.8.269-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/cognitect/transit-java/0.8.269/transit-java-0.8.269-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/cognitect/transit-java/0.8.269/transit-java-0.8.269-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/cognitect/transit-java/0.8.269/transit-java-0.8.269-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
