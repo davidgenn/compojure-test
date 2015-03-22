@@ -10,7 +10,7 @@
                           logf tracef debugf infof warnf errorf fatalf reportf
                           spy logged-future with-log-level with-logging-config
                           sometimes)]
-            [clj-jgit "0.8.3"]))
+            [clj-jgit]))
 (def my-repo
   (clj-jgit.porcelain/git-clone "https://github.com/clj-jgit/clj-jgit.git" "local-folder/clj-jgit"))
 (def my-log (clj-jgit.porcelain/git-log my-repo "v0.0.1" "v0.0.3"))
